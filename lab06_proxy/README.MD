@@ -57,10 +57,6 @@
 
 ---
 
-## UML-диаграмма классов
-
-Диаграмма классов: [`diagram.png`](./diagram.png)
-
 Содержит:
 - `PasswordService` — Subject;
 - `PasswordManager` — RealSubject (Singleton);
